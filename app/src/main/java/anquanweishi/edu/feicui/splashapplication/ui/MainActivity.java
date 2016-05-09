@@ -20,5 +20,6 @@ public class MainActivity extends AppCompatActivity {
         mAnimation= AnimationUtils.loadAnimation(this,R.anim.anim_logo);
         mImageView.startAnimation(mAnimation);
 
+
     }
 }
